@@ -1,0 +1,16 @@
+out/
+7B/
+13B/
+__pycache__/
+minimal-llama**
+upload.py
+optimizer.pt
+pytorch_model.bin
+*ckpt
+wandb
+evaluate.py
+test_data.json
+todo.txt
+.venv
+.vscode
+taiwanese-alpaca-lora/pretrain5/adapter_model.bin
